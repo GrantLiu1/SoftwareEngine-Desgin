@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body{
+margin:0px;
+height:100%;
+}
+
+#whole{
+	width:100%;
+	height:100%;
+	position:fixed;
+	right:0;
+	bottom:0;
+}
+#top{
+	width:100%;
+	height:12%;
+	background-color:#23262e;
+	line-height:100px;
+	font-family:"Microsoft YaHei", Verdana, Geneva, sans-serif;
+	color:#FFF;
+    letter-spacing: 0.05em;
+}
+
+#left{
+	width:12%;
+	height:80%;
+	background-color:#393D49;
+	float:left;
+}
+
+#right{
+	width:88%;
+	height:80%;
+	background-color:#b6abaa;
+	float:left; 
+}
+
+#bottom{
+	width:100%;
+	height:8%;
+	line-height:90px;
+	background-color:#23262e;
+	float:left;
+	
+}
+
+.btn{
+	background-color:#009688;
+	color:#FFF;
+	height:38px;
+	text-align:center;
+	font-size:14px;
+	width:70px;
+	border:none;
+	border-radius:2px;
+	cursor:pointer;
+	white-space:nowrap;
+	display:inline-block;
+	float:right;
+	margin-top:20px;
+	margin-right:15px;
+}
+
+.dot-bottom {  
+    font-size: 0;  
+    line-height: 0;  
+    border-width: 6px;  
+    border-color: #FFF;  
+    border-bottom-width: 0;  
+    border-style: dashed;  
+    border-top-style: solid;  
+    border-left-color: transparent;  
+    border-right-color: transparent; 
+    float:right;
+    margin-right:10px;
+    margin-top:20px;
+}  
+
+.li-xs,.li-jh,.li-rs,.li-cw,.li-eva,.li-adv{
+	float:left;
+	color:#FFF;
+	text-align:left;
+	width:150px;
+	height:45px;
+	line-height:45px;
+	font-size:14px;
+	cursor:pointer;
+}
+
+.li-xs:hover{
+	background-color:#777 !important;  
+	font-weight:bold !important;
+}
+
+.li-eva:hover{
+	background-color:#777 !important;  
+	font-weight:bold !important;
+}
+
+.li-jh:hover{
+	background-color:#777 !important;  
+	font-weight:bold !important;
+}
+
+.li-rs:hover{
+	background-color:#777 !important;  
+	font-weight:bold !important;
+}
+
+.li-kc:hover{
+	background-color:#777 !important;  
+	font-weight:bold !important;
+}
+
+.li-cw:hover{
+	background-color:#777 !important;  
+	font-weight:bold !important;
+}
+
+.li-adv:hover{
+	background-color:#777 !important;  
+	font-weight:bold !important;
+}
+
+.li1:hover{
+	background-color:#7e8392 !important;  
+	font-weight:bold !important;
+}
+
+.li2:hover{
+	background-color:#7e8392 !important;  
+	font-weight:bold !important;
+}
+
+.li3:hover{
+	background-color:#7e8392 !important;  
+	font-weight:bold !important;
+}
+
+.li4:hover{
+	background-color:#7e8392!important;  
+	font-weight:bold !important;
+}
+
+.li5:hover{
+	background-color:#7e8392!important;  
+	font-weight:bold !important;
+}
+.li6:hover{
+	background-color:#7e8392!important;  
+	font-weight:bold !important;
+}

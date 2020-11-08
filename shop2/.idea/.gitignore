@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\SoftwareEngine\课程设计\软嵌171-第2小组--线上校园交易平台\软嵌171-第2小组--线上校园交易平台\软件工程课程设计文档模板\9程序清单\代码\shop2\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/

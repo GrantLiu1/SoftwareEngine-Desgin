@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+
+#login {
+	width: 400px;
+	height: 300px;
+	background-color:#f9f9f9;
+	position: absolute;
+	left:50%;
+	top:50%;
+	margin-left:-200px;
+	margin-top:-180px;
+	font-family:"Microsoft YaHei", Verdana, Geneva, sans-serif;
+}
+
+#title {
+	width: 250px;
+	height: 40px;
+	line-height: 40px;
+	margin: 0px auto;
+	border-bottom-right-radius: 40%;
+	border-bottom-left-radius: 40%;
+	text-align: center;
+	background-color: #4b9cfc;
+	letter-spacing: 0.5em;
+	color: white;
+	font-size: 20px;
+}
+
+#loginTable {
+	margin: 30px auto;
+	border-spacing: 0px 13px;
+}
+
+#form_div{
+	position: absolute;/*绝对定位*/
+	width: 300px;
+	height: 250px;
+	text-align: center;/*(让div中的内容居中)*/
+	top: 50%;
+	left: 50%;
+	margin-top: -90px;
+	margin-left: -150px;
+
+}
+
+.btn {
+	width:205px;
+	height:30px;
+	background-color: #4b9cfc;
+	border:none;
+	font-size: 18px;
+	color: white;
+	margin:0
+}

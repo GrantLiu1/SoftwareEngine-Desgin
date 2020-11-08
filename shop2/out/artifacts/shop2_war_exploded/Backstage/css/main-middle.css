@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+#top{
+	width:1100px;
+	height:40px;
+	border-bottom:double 1px #009688;
+}
+
+#line{
+	width:1100px;
+	height:5px;
+	border-bottom:double 1px #009688;
+}
+
+#top-letf{
+	float:left;
+	text-align:center;
+	width:90px;
+	height:40px;
+	line-height:40px;
+	color:#FFF;
+	background-color:#009688;
+	font-size:14px;
+}
+
+#middle{
+	width:1030px;
+	border-left:double 1px #CCC;
+	padding-left:10px;
+	padding-top:10px;
+}
+
+.btn,.btn-new{
+	width:90px; 
+	height:38px; 
+	color: white; 
+	text-align:center;
+	font-size:14px;
+	background-color:#009688;
+	cursor:pointer;
+	white-space:nowrap;
+	display:inline-block;
+	border:none;
+	border-radius:2px;
+	margin-right:10px;
+}
+
+.btn-upd,.btn-del,.btn-prove,.btn-cancel,.btn-delete,.btn-deal,.btn-change{
+	width:70px; 
+	height:30px; 
+	color: white; 
+	text-align:center;
+	font-size:14px;
+	background-color:#009688;
+	cursor:pointer;
+	border:none;
+	border-radius:2px;
+	margin:1px;
+}
+
+.textfild{
+	height:35px; 
+	width:200px; 
+	border-radius:2px;
+	border:double 1px #666;
+}
